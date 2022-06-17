@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "vite": "^2.9.9"
+    "cypress": "^10.1.0",
   },
   "dependencies": {
-    "cypress": "^10.1.0",
     "sass": "^1.51.0"
   }
 }
