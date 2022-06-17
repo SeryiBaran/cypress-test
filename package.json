@@ -9,8 +9,8 @@
     "test:cy": "cypress open"
   },
   "devDependencies": {
-    "vite": "^2.9.9"
-    "cypress": "^10.1.0",
+    "vite": "^2.9.9",
+    "cypress": "^10.1.0"
   },
   "dependencies": {
     "sass": "^1.51.0"
